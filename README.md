@@ -4,7 +4,7 @@ Get Tuya device's local key easily using [Official Tuya IoT Python SDK](https://
 
 This is a fork of [redphx/tuya-local-key-extractor](https://github.com/redphx/tuya-local-key-extractor) with an automated setup wizard for easier configuration.
 
-## Quick Start (Windows)
+## Quick Start (Start here if you already have your Tuya Access ID and Access Secret. If you still need those, follow step 3 in "Manual Installation" section of the guide
 
 1. **Run the setup wizard:**
    - Double-click `setup_wizard.bat`
