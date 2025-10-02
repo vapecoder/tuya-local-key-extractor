@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/22652358/README.md)
 # tuya-local-key-extractor
 
 Get Tuya device's local key easily using [Official Tuya IoT Python SDK](https://github.com/tuya/tuya-iot-python-sdk).
