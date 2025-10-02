@@ -1,4 +1,5 @@
-# Tuya Local Key Extractor - With Auto Config - Current as of 10/1/25
+# Tuya Local Key Extractor - With Auto Config 
+### Current as of 10/1/25
 Get Tuya device's local key easily using [Official Tuya IoT Python SDK](https://github.com/tuya/tuya-iot-python-sdk).
 
 This is a fork of [redphx/tuya-local-key-extractor](https://github.com/redphx/tuya-local-key-extractor) with an automated setup wizard for easier configuration.
